@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>9f8b700c931b3110d1d4718efaba10b8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="http_connection">
+    <http_connection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_scope display_value="IPInfo Spoke">c6f8c0cc93173110d1d4718efaba1012</app_scope>
+        <application display_value="ALL">35aa573fd7802200bdbaee5b5e610375</application>
+        <base_path/>
+        <capabilities/>
+        <connection_alias display_value="x_1143571_ipinfo_s.IPInfo_Alias">d71b38c8931b3110d1d4718efaba10fc</connection_alias>
+        <connection_retries>0</connection_retries>
+        <connection_timeout/>
+        <connection_url>https://rebrickable.com/api/v3</connection_url>
+        <credential/>
+        <extended_attributes/>
+        <host>rebrickable.com</host>
+        <is_internal>false</is_internal>
+        <mid_cluster/>
+        <mid_selection>auto_select</mid_selection>
+        <mid_server/>
+        <mutual_auth>false</mutual_auth>
+        <name>IPInfo Connection</name>
+        <order>100</order>
+        <port/>
+        <protocol>https</protocol>
+        <protocol_profile/>
+        <sys_class_name>http_connection</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-19 02:03:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f8b700c931b3110d1d4718efaba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-19 02:03:11</sys_updated_on>
+        <url_builder>false</url_builder>
+        <use_mid>false</use_mid>
+    </http_connection>
+    <sys_variable_value action="delete_multiple" query="document_key=9f8b700c931b3110d1d4718efaba10b8"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-19 02:05:10</sys_created_on>
+        <sys_id>ff8c7880931b3110d1d4718efaba108b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPInfo Connection</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_1143571_ipinfo_s">c6f8c0cc93173110d1d4718efaba1012</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">c6f8c0cc93173110d1d4718efaba1012</sys_scope>
+        <sys_update_name>sys_metadata_link_ff8c7880931b3110d1d4718efaba108b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-19 02:05:10</sys_updated_on>
+        <tablename>sys_connection</tablename>
+    </sys_metadata_link>
+</record_update>
